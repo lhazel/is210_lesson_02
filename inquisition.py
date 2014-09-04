@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-""" A short excerpt on the Spanish Inquisition stored in a variable"""
+""" A short excerpt on the Spanish Inquisition stored in a variable
+
+It explains and tells you about the spanish inquisition... 
+
+
+"""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
