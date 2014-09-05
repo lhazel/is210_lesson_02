@@ -5,7 +5,7 @@
 
 import inquisition
 
-FISHY= inquisition.SPANISH.replace("surprise","haddock")
-VALUE_OF= len("Spanish")
-INDEX_VALUE=FISHY.index("Spanish")
-FLEMISH= FISHY[:INDEX_VALUE] + "Flemish"+FISHY[26:]
+FISHY = inquisition.SPANISH.replace("surprise" , "haddock")
+VALUE_OF = len("Spanish")
+INDEX_VALUE = FISHY.index("Spanish")
+FLEMISH = FISHY[:INDEX_VALUE] + "Flemish"+FISHY[26:]

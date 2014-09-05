@@ -3,4 +3,4 @@
 
 """Demonstrates the possibility of using \n in text"""
 
-ESCAPE_STRING= "\\n"
+ESCAPE_STRING = "\\n"
