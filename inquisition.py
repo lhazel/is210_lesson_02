@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """ A short excerpt on the Spanish Inquisition stored in a variable
 
-It explains and tells you about the spanish inquisition... 
+It explains and tells you about the spanish inquisition.
 
 
 """
