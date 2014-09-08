@@ -4,3 +4,9 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+a = [D, a, n, g, e, r, ]
+# taking first seven in string
+[D, ]
+
+print "Klaxon will Robinson!"
+
